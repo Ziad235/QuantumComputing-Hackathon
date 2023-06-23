@@ -5,7 +5,7 @@ Our solution uses quantum annealing to solve Traveling Salesperson Problems to e
 <a href = "https://docs.google.com/presentation/d/1xttMPEMyEMe38c13a5HV48R3ZdQXod-m/edit">Presentation</a>
 
 ## Team Members
-![Team Photo](./../photo/team22.JPG)
+![Team Photo](./../Team_Photo/team22.JPG)
 
 ## Mentors
 Alexandar Degner,  Media University of Applied Sciences Munich, Germany
